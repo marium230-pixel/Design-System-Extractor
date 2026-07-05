@@ -1,0 +1,6 @@
+{
+  "name": "Design System Extractor",
+  "description": "Extract design tokens such as color palettes, typography scales, and structural components from UI screenshots using Gemini Vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
